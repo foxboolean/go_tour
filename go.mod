@@ -1,3 +1,3 @@
-module github.com/foxboolean/cmdtool
+module github.com/foxboolean/go_tour
 
 go 1.16

@@ -1,2 +1,10 @@
-# cmdtool
-basic command tool using go
+# Go 语言编程之旅
+## go_tools 命令行工具
+> start 2022.03.02
+
+### 功能清单
+
+- 单词格式转换
+- 便利的时间工具
+- SQL语句到结构体的转换
+- JSON 到结构体的转换
