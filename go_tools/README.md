@@ -11,3 +11,9 @@
 - 设置时区
 
 ### SQL 生成结构体
+- text/template 渲染模板
+- MySQL 查询 SCHEMA 库中的表信息组装数据
+
+### JSON 解析为结构体
+
+TODO 3月18号完成
