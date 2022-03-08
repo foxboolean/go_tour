@@ -9,3 +9,5 @@
 - 获取当前时间 `GetNowTime`
 - 时间推算 `GetCalculateTime`
 - 设置时区
+
+### SQL 生成结构体
